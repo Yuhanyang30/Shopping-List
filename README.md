@@ -1,9 +1,3 @@
 # Shopping-List
-Get it done today
 
-Notebook
-Jello
-Spinach
-Rice
-Birthday Cake
-Candles
+The Complete Web Developer in 2019: Zero to Mastery Lecture 125 Dom 
