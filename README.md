@@ -1,5 +1,3 @@
 # Shopping-List
 
-# Add List
-# Delete List
-# Change Background Color
+website: https://yuhanyang30.000webhostapp.com/Shopping%20List/Shopping%20List.html
