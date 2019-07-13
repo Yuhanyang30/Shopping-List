@@ -23,5 +23,36 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
-
 }
+
+/*color button*/
+#color1, #color2{font-family:'Indie Flower',cursive;
+font-size:18px;
+padding:8px 8px 6px;
+color:#3cb371;
+font-weight:700;
+cursor:pointer;
+border:2px solid #3cb371;
+background:none}
+
+/*input list*/
+#userinput{font-family:'Indie Flower',cursive;
+font-size:15px;
+padding:10px 11px 8px;
+color:#3cb371;
+font-weight:700;
+border:2px solid #3cb371;
+background:none;
+margin-right:6px;
+width:200px;outline:none}
+
+/*enter button*/
+#enter{font-family:'Indie Flower',cursive;
+font-size:18px;
+padding:8px 8px 6px;
+color:#3cb371;
+font-weight:700;
+cursor:pointer;
+border:2px solid #3cb371;
+background:none}
+#enter:hover{color:#fff;background:#3cb371}
